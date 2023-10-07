@@ -1,5 +1,4 @@
 from sentence_transformers import SentenceTransformer
-!pip install pinecone
 import pinecone
 import openai
 import streamlit as st
